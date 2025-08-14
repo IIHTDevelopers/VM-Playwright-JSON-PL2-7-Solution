@@ -1,1 +1,1 @@
-ts-11VerifyThe'skills'CouldBeDeletedFromTheRecord=true
+ts-4VerifyTheQualificationSelectDeleteFunctionality=true
